@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">UjangApps</string>
+    <string name="nama_ujang">Ujang bin ucup</string>
+
+
+    <string-array name="kelas">
+        <item>Ekonomi</item>
+        <item>Bisnis</item>
+        <item>Eksekutif</item>
+    </string-array>
+
+    <string-array name="penumpang">
+        <item>0</item>
+        <item>1  </item>
+        <item>2  </item>
+        <item>3  </item>
+        <item>4  </item>
+        <item>5  </item>
+    </string-array>
+
+    <string-array name="bayi">
+        <item>0 </item>
+        <item>1 Bayi</item>
+        <item>2 Bayi</item>
+        <item>3 Bayi</item>
+        <item>4 Bayi</item>
+        <item>5 Bayi</item>
+    </string-array>
+
+    <string name="gender_L">
+        Laki-laki
+    </string>
+    <string name="gender_PR">
+        Perempuan
+    </string>
+
+
+</resources>
+
+
+
+
+
+
+
+
+
+
